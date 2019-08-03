@@ -9,3 +9,26 @@ patch:
   'npm:ms:20170412':
     - socket.io > socket.io-adapter > socket.io-parser > debug > ms:
         patched: '2019-06-11T23:01:13.706Z'
+  SNYK-JS-LODASH-450202:
+    - snyk > snyk-nodejs-lockfile-parser > lodash:
+        patched: '2019-07-03T23:03:11.913Z'
+    - snyk > lodash:
+        patched: '2019-07-03T23:03:11.913Z'
+    - snyk > snyk-nuget-plugin > lodash:
+        patched: '2019-07-03T23:03:11.913Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2019-07-03T23:03:11.913Z'
+    - snyk > inquirer > lodash:
+        patched: '2019-07-03T23:03:11.913Z'
+    - snyk > snyk-config > lodash:
+        patched: '2019-07-03T23:03:11.913Z'
+    - snyk > snyk-mvn-plugin > lodash:
+        patched: '2019-07-03T23:03:11.913Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2019-07-03T23:03:11.913Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2019-07-03T23:03:11.913Z'
+    - snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash:
+        patched: '2019-07-03T23:03:11.913Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-07-03T23:03:11.913Z'
